@@ -12,24 +12,26 @@ div{
 h1{
     text-align: center;
 }
-
-#listal{
-    font-family:Arial;
-    font-weight:bold;
-    font-size:13px;
- }
- .separador {
-    color:gray;}
+/* Menu */
+nav{
+    background-color: #94618e;
+    padding: 10px;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     
-    #lista1 li {
-        display:inline;
-        padding-left:3px;
-        padding-right:3px;
-       background: color #94618E ;
-       }
-
-    
-a:hover {
-    color:black;
-    background-color:lightgray;
+}
+nav ul li{
+    list-style: none;
+    margin-left: 60px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: white;
+}
+nav ul li a:hover{
+    color: white;
 }
