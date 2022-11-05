@@ -4,38 +4,17 @@
 .titulos {
     color: #e05fe4;
     box-sizing: inherit;
-
-}
+    
+  div vita{
+    text-align: center; 
+     .br negrita {
+        font-size: medium;
+    }
+ 
 div{
     text-align: center;
 }
 h1{
     text-align: center;
 }
-/* Menu */
-nav{
-    background-color: #94618e;
-    padding: 10px;
-}
-nav ul{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    
-}
-nav ul li{
-    list-style: none;
-    margin-left: 60px;
-}
-nav ul li a{
-    text-decoration: none;
-    font-size: 1.2rem;
-    color: white;
-}
-nav ul li a:hover{
-    color: white;
-}
-.redes img{
-    display: block;
-    margin: auto;
-}
+<style type="text/css">
