@@ -1,7 +1,8 @@
- div1{
-    font-size: 30px;
+ header{
+    background-color:  #f86cb2;
  }
-.titulos {
+
+  .titulos {
     color: #e05fe4;
     box-sizing: inherit;
     
@@ -16,5 +17,4 @@ div{
 }
 h1{
     text-align: center;
-}
-<style type="text/css">
+} */
